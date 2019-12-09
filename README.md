@@ -5,6 +5,7 @@ This is a very useful caculator,which can do laplace transform and reverse lapla
 
 User Story:
   People who want make laplace transform or laplace reverse transform
+  
   People who want to get the figure of an function
 
 ###How to use it

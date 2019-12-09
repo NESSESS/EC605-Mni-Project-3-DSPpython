@@ -14,3 +14,8 @@ Before use it, please use pip install sympy to install the library.
 You need to enter the functions in the box, remember that you can only use 't' or 's' to enter the function.
 
  ![Image description](https://github.com/NESSESS/EC605-Mni-Project-3-DSPpython/blob/master/pic0.PNG)
+ ![Image description](https://github.com/NESSESS/EC605-Mni-Project-3-DSPpython/blob/master/pic1.PNG)
+ ![Image description](https://github.com/NESSESS/EC605-Mni-Project-3-DSPpython/blob/master/pic2.PNG)
+ ![Image description](https://github.com/NESSESS/EC605-Mni-Project-3-DSPpython/blob/master/pic3.PNG)
+ ![Image description](https://github.com/NESSESS/EC605-Mni-Project-3-DSPpython/blob/master/pic4.PNG)
+  

@@ -12,3 +12,5 @@ User Story:
 
 Before use it, please use pip install sympy to install the library.
 You need to enter the functions in the box, remember that you can only use 't' or 's' to enter the function.
+
+ ![Image description](https://github.com/NityaRaju/601LyftProject/blob/master/Test%20bus1.JPG)

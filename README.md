@@ -17,11 +17,18 @@ This is the main interface:
  ![Image description](https://github.com/NESSESS/EC605-Mni-Project-3-DSPpython/blob/master/pic0.PNG)
  
 You can do laplace tranform :
+
  ![Image description](https://github.com/NESSESS/EC605-Mni-Project-3-DSPpython/blob/master/pic1.PNG)
+ 
 You can get the figure of the function by pressing the "show figure" button:
+
  ![Image description](https://github.com/NESSESS/EC605-Mni-Project-3-DSPpython/blob/master/pic2.PNG)
+ 
 You can also do laplace reverse transfrom,this time we enter a transform function of an second_order system.
+
  ![Image description](https://github.com/NESSESS/EC605-Mni-Project-3-DSPpython/blob/master/pic3.PNG)
+ 
 You can get the time dormain figue
+
  ![Image description](https://github.com/NESSESS/EC605-Mni-Project-3-DSPpython/blob/master/pic4.PNG)
   
